@@ -1,10 +1,10 @@
-نهائي Mullvad تطبيق | دعم متعدد البروتوكولات + دعم L2TP هو أفضل Mullvad تطبيق مع دعم متعدد البروتوكولات و دعم L2TP. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/mullvad-oh30/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
